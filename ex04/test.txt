@@ -1,0 +1,6 @@
+Hello, world! This is a sample text file.
+We are testing string replacement in this file.
+This file searchs for several occurrences of the string "s1" in this file.
+The string "s1" should be replaced with "s2".
+Let's see if our program works as expected!
+Good luck with the test!
